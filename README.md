@@ -14,7 +14,7 @@ The Horiseon website can be used by clicking on the links in the header section 
 
 ## Credits
 
-The starter code was used from a repository named urban-octo-telegram which can be accessed through the following link: https://github.com/coding-boot-camp/urban-octo-telegram.git
+The starter code, which is located in the index.html, was used from a repository named urban-octo-telegram which can be accessed through the following link: https://github.com/coding-boot-camp/urban-octo-telegram.git
 
 ## License
 
